@@ -58,11 +58,11 @@ avatar: "https://avatars.githubusercontent.com/u/7775410?s=460&u=09029d6858ca946
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - linkedin:
-      name: LinkedIn
-      show: true
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
-      icon: fab fa-linkedin
+#   - linkedin:
+#       name: LinkedIn
+#       show: true
+#       href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+#       icon: fab fa-linkedin
   - instagram:
       name: Instagram
       show: true
@@ -73,11 +73,11 @@ links:
       show: true
       href: https://github.com/marcelomws
       icon: fab fa-github
-  - github:
-      name: Gist
-      show: true
-      href: https://gist.github.com/marcelomws
-      icon: fab fa-github
+#   - github:
+#       name: Gist
+#       show: true
+#       href: https://gist.github.com/marcelomws
+#       icon: fab fa-github
   - medium:
       name: Medium
       show: true

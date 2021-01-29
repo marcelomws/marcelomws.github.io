@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Marcelo Wildfaier
 #subtitle:
-subtitle: Frontend Developer
+subtitle: .net Developer
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -34,7 +34,7 @@ url: https://tsjensen.github.io/fuse-core/
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-baseurl: '/fuse-core'
+baseurl: ''
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -42,15 +42,15 @@ baseurl: '/fuse-core'
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
-    cookieconsent: true
-    anonymizeip: true
+    # account: 'UA-120960520-1'
+    # cookieconsent: true
+    # anonymizeip: true
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
+avatar: "https://avatars.githubusercontent.com/u/7775410?s=460&u=09029d6858ca946727f8ab04071ae80130567b62&v=4"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -63,11 +63,6 @@ links:
       show: true
       href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
       icon: fab fa-linkedin
-  - facebook:
-      name: Facebook
-      show: true
-      href: https://facebook.com/marcelomws
-      icon: fab fa-facebook
   - instagram:
       name: Instagram
       show: true
@@ -83,11 +78,6 @@ links:
       show: true
       href: https://gist.github.com/marcelomws
       icon: fab fa-github
-  - stackoverflow:
-      name: Stack Overflow
-      show: true
-      href: https://stackoverflow.com/users/12025220/mwildfaier
-      icon: fab fa-stack-overflow
   - medium:
       name: Medium
       show: true
@@ -103,7 +93,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    ''
 
 #EOF
